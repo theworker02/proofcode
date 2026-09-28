@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/proofcode",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proof lightweight code statistics from stdin samples.",
+  "bin": {
+    "proofcode": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/proofcode.git"
+  },
+  "homepage": "https://theworker02.github.io/proofcode/",
+  "keywords": [
+    "proof",
+    "code",
+    "stat",
+    "cli",
+    "toolkit"
+  ]
+}
